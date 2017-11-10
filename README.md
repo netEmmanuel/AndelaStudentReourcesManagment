@@ -1,1 +1,1 @@
-# AndelaStudentReourcesManagment
+# StudentReourcesManagment
